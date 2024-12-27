@@ -46,14 +46,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/> 
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.pngwing.com/en/free-png-lqvge" alt="appium" width="50" height="50"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://automationpanda.com/wp-content/uploads/2017/10/cucumber-logo.png" alt="cucumber" width="50" height="50"/> 
-  </a> 
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.pngegg.com/en/png-eonml" alt="testng" width="50" height="50"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Appium_Logo_2019.png" alt="appium" width="50" height="50"/>
+</a>
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Cucumber_logo.png" alt="cucumber" width="50" height="50"/> 
+</a> 
+<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/TestNG_Logo.svg" alt="testng" width="50" height="50"/>
+</a>
 
   <!-- Technologies -->
   <h4>Technologies:</h4>
@@ -70,8 +70,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.cleanpng.com/png-power-bi-logo-business-intelligence-font-data-data-7021377.png" alt="powerbi" width="50" height="50"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/>
+</a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
