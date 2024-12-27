@@ -45,15 +45,6 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/> 
   </a>
-  <a href="https://appium.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Appium_Logo_2019.svg" alt="Appium" width="50" height="50"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Cucumber_logo.svg" alt="Cucumber" width="50" height="50"/>
-  </a>
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/TestNG_Logo.svg" alt="TestNG" width="50" height="50"/>
-  </a>
 
   <!-- Technologies -->
   <h4>Technologies:</h4>
