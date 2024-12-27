@@ -15,11 +15,11 @@
 <p align="left"> 
   <!-- Programming Languages -->
   <h4>Programming Languages:</h4>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
@@ -33,12 +33,9 @@
 
   <!-- Frameworks -->
   <h4>Frameworks:</h4>
-  <a href="https://appium.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" alt="appium" width="50" height="50"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="50" height="50"/> 
   </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-original.svg" alt="cucumber" width="50" height="50"/> 
-  </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/> 
   </a> 
@@ -48,11 +45,14 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/> 
   </a>
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" alt="testng" width="50" height="50"/>
+  <a href="https://appium.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.pngwing.com/en/free-png-lqvge" alt="appium" width="50" height="50"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="50" height="50"/> 
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://automationpanda.com/wp-content/uploads/2017/10/cucumber-logo.png" alt="cucumber" width="50" height="50"/> 
+  </a> 
+  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.pngegg.com/en/png-eonml" alt="testng" width="50" height="50"/>
   </a>
 
   <!-- Technologies -->
@@ -70,7 +70,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/>
+    <img src="https://www.cleanpng.com/png-power-bi-logo-business-intelligence-font-data-data-7021377.png" alt="powerbi" width="50" height="50"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
@@ -78,26 +78,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
   </a>
-  <a href="https://webscraper.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Web_Scraper_logo.svg" alt="webscraping" width="50" height="50"/> 
-  </a>
 
 </p>
-
-<h3 align="left">🌟 Soft Skills:</h3>
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Communication_icon.svg" alt="communication" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Handshake_icon.svg" alt="teamwork" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Leadership_icon.svg" alt="leadership" width="50" height="50"/>
-</p>
-
-<h3 align="left">📜 Certifications:</h3>
-<ul>
-  <li>Data Science and Visualization - **IBM**</li>
-  <li>Data Science and Power BI - **Great Learning**</li>
-  <li>Machine Learning Foundation - **AWS Academy**</li>
-  <li>Data Structures - **Udemy**</li>
-</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-borse-7&show_icons=true&locale=en&layout=compact" alt="harsh-borse-7" /></p>
 
