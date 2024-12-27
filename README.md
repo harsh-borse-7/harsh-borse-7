@@ -45,15 +45,15 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/> 
   </a>
- <a href="https://appium.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Appium_Logo_2019.png" alt="Appium" width="50" height="50"/>
-</a>
-<a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Cucumber_logo.png" alt="Cucumber" width="50" height="50"/>
-</a>
-<a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+  <a href="https://appium.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Appium_Logo_2019.svg" alt="Appium" width="50" height="50"/>
+  </a>
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Cucumber_logo.svg" alt="Cucumber" width="50" height="50"/>
+  </a>
+  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/TestNG_Logo.svg" alt="TestNG" width="50" height="50"/>
-</a>
+  </a>
 
   <!-- Technologies -->
   <h4>Technologies:</h4>
@@ -71,13 +71,14 @@
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/>
-</a>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
   </a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-borse-7&show_icons=true&locale=en&layout=compact" alt="harsh-borse-7" /></p>
